@@ -158,6 +158,9 @@ body{
     }
 }
 @media screen and (max-width: 430px){
+    .position-fixed{
+        position: static !important;
+    }
     .fj-vh100 {
         height: 30vh !important;
     }
