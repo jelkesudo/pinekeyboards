@@ -174,4 +174,22 @@ body{
     .fj-naslov a{
         font-size: 8px;
     }
+    .w-25{
+        width: 75% !important;
+    }
+    .jumbotron h1{
+        font-size: 30px !important;
+    }
+    .fj-pozadina{
+        width: 75% !important;
+    }
+    .fj-pozadina h2{
+        font-size: 25px !important;
+    }
+    .fj-pozadina p{
+        font-size: 13px !important;
+    }
+    .fj-pozadina a{
+        padding: 5px 10px !important;
+    }
 }
