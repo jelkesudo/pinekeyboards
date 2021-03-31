@@ -158,8 +158,8 @@ body{
     }
 }
 @media screen and (max-width: 430px){
-    .position-fixed{
-        position: static !important;
+    .fj-lowrez-header{
+        margin-top: 56px !important;
     }
     .fj-vh100 {
         height: 30vh !important;
@@ -194,5 +194,12 @@ body{
     }
     .border-left{
         border: none !important;
+    }
+    footer{
+        text-align: center !important;
+    }
+    .fj-lowrez-footer{
+        display: flex !important;
+        justify-content: center !important;
     }
 }
