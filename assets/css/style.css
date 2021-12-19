@@ -87,6 +87,9 @@ body{
     color: var(--bela);
     padding: 30px 0px;
 }
+.fj-w100vw{
+    width: 100vw !important;
+}
 .fj-naslov h1{
     font-size: 3.8em;
 }
